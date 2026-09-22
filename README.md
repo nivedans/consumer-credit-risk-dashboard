@@ -40,12 +40,15 @@ How can lenders use borrower and loan characteristics to identify higher-risk ap
 
 ## Key Findings
 
-| Analysis | Finding |
+| Analysis | Result |
 |----------|---------|
-| Previous Defaults | 2.1× higher default rate |
-| Loan-to-Income | Sharp increase above 30% |
-| Loan Grade | Grade G reached 98.4% observed default rate |
-| Interest Rates | Higher rates associated with higher observed risk |
+| Previous Defaults | **2.05× higher** observed default rate |
+| Loan-to-Income | Sharp increase above **30%** |
+| Loan Grade | Grade G reached **98.4%** default rate* |
+| Loan Purpose | Debt Consolidation had the highest observed default rate |
+| Interest Rates | Higher rates associated with higher observed default risk |
+
+*Grade G contained only 64 loans.
 
 ## Dashboard Preview
 
