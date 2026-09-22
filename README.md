@@ -1,6 +1,7 @@
 # Consumer Credit Risk Analytics Dashboard
 
 A complete end-to-end data analytics project using **Excel, SQL and Power BI** to analyse **32,000+ consumer loans**, identify key drivers of default risk and produce business-focused lending recommendations.
+
 ![Excel](https://img.shields.io/badge/Excel-Analysis-217346?logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Queries-4479A1?logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
