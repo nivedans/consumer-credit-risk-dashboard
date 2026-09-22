@@ -30,6 +30,16 @@ How can lenders use borrower and loan characteristics to identify higher-risk ap
 | Loan Grade | Grade G reached 98.4% observed default rate |
 | Interest Rates | Higher rates associated with higher observed risk |
 
+## Dashboard Preview
+
+### Main Dashboard
+
+![No Filter Dashboard](05%20Images/No%20Filter%20Dashboard.png)
+
+### Dashboard with Filters
+
+![Filter Dashboard](05%20Images/Filter%20Dashboard.png)
+
 ## Business Recommendations
 
 - Strengthen affordability checks for high loan-to-income applications.
