@@ -52,3 +52,13 @@ How can lenders use borrower and loan characteristics to identify higher-risk ap
 - Observational analysis identifies associations rather than causation.
 - Some interest-rate values were missing.
 - Real-world lending decisions require additional borrower information.
+
+## Skills Demonstrated
+
+- Data Cleaning & Validation
+- SQL Query Development
+- Exploratory Data Analysis (EDA)
+- KPI Reporting
+- Power BI Dashboard Design
+- Business Insight Generation
+- Credit Risk Analysis
