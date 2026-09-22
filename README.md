@@ -49,11 +49,11 @@ How can lenders use borrower and loan characteristics to identify higher-risk ap
 
 ## Dashboard Preview
 
-### Main Dashboard
+### Executive Dashboard
 
 ![No Filter Dashboard](05%20Images/No%20Filter%20Dashboard.png)
 
-### Dashboard with Filters
+### Interactive Dashboard with Filters
 
 ![Filter Dashboard](05%20Images/Filter%20Dashboard.png)
 
