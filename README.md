@@ -7,6 +7,16 @@ A complete end-to-end data analytics project using **Excel, SQL and Power BI** t
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
 
+## Table of Contents
+
+- [Business Problem](#business-problem)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Findings](#key-findings)
+- [SQL Analysis](#sql-analysis)
+- [Business Recommendations](#business-recommendations)
+- [Repository Structure](#repository-structure)
+- [What I Learned](#what-i-learned)
+
 ## Project Overview
 
 Analysed a dataset containing **32,000+ consumer loans** using **Excel, SQL and Power BI** to identify factors associated with higher observed loan default risk and develop business-focused recommendations.
